@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/photos-searcher-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/photos-searcher-react/static/js/main.9d08d8db.chunk.js",
+    "main.js.map": "/photos-searcher-react/static/js/main.9d08d8db.chunk.js.map",
+    "runtime-main.js": "/photos-searcher-react/static/js/runtime-main.40f18278.js",
+    "runtime-main.js.map": "/photos-searcher-react/static/js/runtime-main.40f18278.js.map",
+    "static/js/2.6e51a054.chunk.js": "/photos-searcher-react/static/js/2.6e51a054.chunk.js",
+    "static/js/2.6e51a054.chunk.js.map": "/photos-searcher-react/static/js/2.6e51a054.chunk.js.map",
+    "index.html": "/photos-searcher-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/photos-searcher-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6e51a054.chunk.js.LICENSE.txt": "/photos-searcher-react/static/js/2.6e51a054.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40f18278.js",
+    "static/js/2.6e51a054.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9d08d8db.chunk.js"
+  ]
+}
