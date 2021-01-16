@@ -1,16 +1,13 @@
 .search-container {
     display: grid;
-}
-
-.search-item {
-    font-size: 3rem;
-    margin-bottom: 1rem;
+    place-items: center;
+    grid-template-columns: 30px 1fr;
+    background-color: #fff;
 }
 
 .search-input {
-    width: 900px;
+    width: 800px;
     line-height: 20px;
-    background-color: #fff;
     padding: 10px;
     border: none;
 }
