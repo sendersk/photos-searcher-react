@@ -1,0 +1,16 @@
+.search-container {
+    display: grid;
+}
+
+.search-item {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.search-input {
+    width: 900px;
+    line-height: 20px;
+    background-color: #fff;
+    padding: 10px;
+    border: none;
+}
