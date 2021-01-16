@@ -1,0 +1,20 @@
+.hero-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+}
+
+.hero-image {
+    object-fit: cover;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+.hero-content {
+    color: #fff
+}
