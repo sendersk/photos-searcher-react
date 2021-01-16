@@ -13,6 +13,7 @@ function HeroSection() {
           <br />
           Powered by creators everywhere.
         </h2>
+        <p className="hero-tags">Trending: flower, wallpaper, backgrounds, happy, love</p>
       </div>
     </div>
   );
