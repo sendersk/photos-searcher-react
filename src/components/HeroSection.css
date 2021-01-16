@@ -19,3 +19,16 @@
 .hero-content {
     color: #fff
 }
+
+.hero-header {
+    margin: 0;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.hero-subHeader {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.5;
+}
